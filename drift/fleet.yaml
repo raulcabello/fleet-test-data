@@ -7,5 +7,4 @@ targetCustomizations:
     matchLabels:
       env: test
   correctDrift:
-      force: true
-      enabled: true
+      enabled: false
